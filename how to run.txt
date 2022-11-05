@@ -1,0 +1,19 @@
+1:Download Python from :https://www.python.org/downloads/
+2:Extract the zip "project" to the desktop
+3:open the folder "project"
+4:open command window here(powershell recommended)
+5:make sure the directory is same as the project folder if not then change the directory using "cd path"
+5:type :   "python mycart.py"    inside the command window
+
+6: code will run
+
+
+Status:
+
+User flow is fully working.
+Admin flow is fully working.
+Used OOP concepts.
+
+
+
+ 
